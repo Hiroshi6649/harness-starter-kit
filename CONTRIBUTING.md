@@ -11,3 +11,4 @@ Notes and usage details for harness-starter-kit.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
